@@ -1,13 +1,9 @@
-# FHIR-Arena
-
-## Democratizing SMART on FHIR development
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d975527b-ab05-4d0e-bcad-6d95aed8e109" alt="FHIR-Arena logo" width="600" />
+</p>
+<h2 align="center">
+  Democratizing SMART on FHIR development
+</h2>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d6218af-0bf2-46f6-925e-45ba38c8e9fa" alt="FHIR-Arena" width="800" />
+</p>
