@@ -26,6 +26,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
 
 # Project Ideas for SMART on FHIR Development
 
